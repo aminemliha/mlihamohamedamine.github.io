@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.5f3f5ae8.js",
+    "static/media/dermAI.png": "/static/media/dermAI.a33d7b05b09e42a3ed55.png",
+    "static/media/amineML.jpg": "/static/media/amineML.063d1ee47c7ce31563fa.jpg",
+    "static/media/offres de stage.png": "/static/media/offres de stage.71f6e45bb57c63d807a0.png",
+    "static/media/logo_amine.png": "/static/media/logo_amine.47aae75abec128e53241.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.cee44f07a15e1bcc9b0a.jpg",
+    "static/media/menu.jpg": "/static/media/menu.8b3e89bb3018c197036f.jpg",
+    "static/media/favicon.ico.jpg": "/static/media/favicon.ico.4c0626de5afbbaa0a77a.jpg",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.5f3f5ae8.js.map": "/static/js/main.5f3f5ae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.5f3f5ae8.js"
+  ]
+}
